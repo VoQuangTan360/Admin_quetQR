@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/tk" android:title="Thêm tài khoản" android:icon="@drawable/add_user"/>
+    <item android:id="@+id/ql" android:title="QL tài khoản" android:icon="@drawable/account"/>
+    <item android:id="@+id/door" android:title="QL cữa" android:icon="@drawable/door"/>
+
+</menu>
